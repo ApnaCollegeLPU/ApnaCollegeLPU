@@ -12,7 +12,7 @@
 
 - 💬 Ask Us about **Anything**
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-apnacollegelpu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apnacollegelpu@gmail.com))](mailto:apnacollegelpu@gmail.com)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-apnacollegelpu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apnacollegelpu@gmail.com)](mailto:apnacollegelpu@gmail.com)
 
 - ⚡ Fun fact **We are not going to stop**
 
