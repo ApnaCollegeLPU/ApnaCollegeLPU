@@ -1,4 +1,4 @@
-![MasterHead]()
+![Masterhead](https://github.com/ApnaCollegeLPU/ApnaCollegeLPU/blob/main/images/APNA%20COLLEGE%20LPU%20(1).png)
 <h1 align="center"> Welcome to Apna College LPU </h1>
 <h3 align="center">"Unlock your tech potential !"</h3>
 <img align="right" alt="Coding" width="400" src="https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/b271da3401c9bf777bc501056294f1c1.png">
