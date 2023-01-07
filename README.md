@@ -2,13 +2,14 @@
 <h1 align="center"> Welcome to Apna College LPU </h1>
 <h3 align="center">"Unlock your tech potential !"</h3>
 <img align="right" alt="Coding" width="400" src="https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/b271da3401c9bf777bc501056294f1c1.png">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ApnaCollegeLPU&label=Profile%20views&color=0e75b6&style=flat" alt="Apna College LPU" /> </p>
+
 <p align="left"> <img src="https://img.shields.io/github/followers/ApnaCollegeLPU.svg?style=social&label=Follow" alt="Apna College LPU" /> </p>
 
-- 🔭 We currently working on **Becoming Best Club Of LPU!**
+- 🔭 We currently working on **"Becoming Best Club Of LPU!"**
 
-- 🌱 We currently learning **How to Produce best out of our members!**
+- 🌱 We currently learning **"How to Produce best out of our members!"**
 
 - 💬 Ask Us about **Anything**
 
